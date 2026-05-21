@@ -3251,3 +3251,9 @@ ol {
   color: #436B4E;
   background-color: #fff;
 }
+
+.hero-content h1{
+    font-size: 42px!important;
+    color: #fff!important;
+    font-weight: 700;
+}
